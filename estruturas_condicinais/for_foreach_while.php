@@ -1,7 +1,7 @@
 <?php
 
 for($i=0;$i<=100;$i++){
-    $a=rand();
+    $a=rand(1,100);
     echo $a."<br>";
 }
 echo "<br><br><br><br><br><br><br><br><br><br>";
